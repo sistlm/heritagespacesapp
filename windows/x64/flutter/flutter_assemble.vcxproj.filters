@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sreed\source\repos\heritagespacesapp\build\windows\x64\CMakeFiles\0053e0db70b1ceb77537fd46fd0d009d\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sreed\source\repos\heritagespacesapp\build\windows\x64\CMakeFiles\77b64ccce17b52c12894da8d091e8d16\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sreed\source\repos\heritagespacesapp\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sreed\source\repos\heritagespacesapp\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1B220795-53C1-3F68-B04C-7C118C1FC46D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
